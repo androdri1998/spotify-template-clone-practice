@@ -5,8 +5,8 @@ export const Container = styled.View`
   align-items: center;
 
   margin-top: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
   padding-top: 20px;
   padding-bottom: 20px;
 `;
